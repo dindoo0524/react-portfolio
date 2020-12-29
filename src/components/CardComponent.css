@@ -1,0 +1,51 @@
+.card-component-title {
+    padding: 10px 0 25px 0;
+}
+
+.card-item-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.card-item {
+    /* flex : 1; */
+    flex-basis: 235px;
+}
+
+.txt-container {
+    padding : 15px 0;
+    word-break: keep-all;
+}
+
+.txt-container .title{
+    padding : 12px 0 8px 0;
+}
+
+.txt-container .text{
+    color : #9b9ba0;
+    height: 70px;
+}
+
+.txt-container .icon{
+    margin-right: 5px;
+}
+
+.category-txt{
+    font-size: 11px;
+    color : #6e6e73;
+    background-color : rgb(242, 242, 242);
+    padding : 5px;
+    border-radius: 5px;
+    margin : 2px;
+}
+
+
+.best-bedge{
+    color: #ed234b;
+    border : 2px solid #ed234b;
+    width: 50px;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
