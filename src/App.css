@@ -1,0 +1,44 @@
+.App {
+  /* background-image: linear-gradient(rgb(220, 220, 220), rgb(255, 255, 255) 27%, rgb(255, 255, 255)); */
+  /* background-color: #eee; */
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.App-logo {
+  width:80px;
+}
+
+.wrap {
+  width:800px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #fff;
+}
+
+footer{
+  background-color: #3c3c3c;
+}
+
+header .wrap, footer .wrap{
+  width:1000px;
+  margin:0 auto;
+}
+
+@media all and (max-width:1024px) {
+  header .wrap, footer .wrap{
+    width: 100%;
+  }
+}
+
+.page-container{
+  padding : 300px;
+  text-align: center;
+  font-size: 50px;
+}
+.content-section{
+  width: 1000px;
+  margin : 50px auto;
+}
+
