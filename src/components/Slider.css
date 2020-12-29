@@ -1,0 +1,38 @@
+.slider-container-wrap {
+    /* width: 616px; */
+    overflow: hidden;
+    position: relative;
+    /* border-radius: 10px; */
+}
+
+.slider-container{
+    width: 100%;
+    display: flex;
+}
+
+.slide{
+    /* flex-basis:616px; */
+    height: 400px;
+    flex: 0 0 100%;
+}
+
+.slider-button {
+    all: unset;
+    border: 1px solid coral;
+    padding: 0.5em 2em;
+    color: coral;
+    border-radius: 10px;
+}
+
+.slider-button:hover{
+    transition: all 0.3s ease-in-out;
+    background-color: coral;
+    color: #fff;
+}
+
+.slide-text {
+    width : 900px;
+    margin : 0 auto;
+    color : #fff;
+    padding : 100px 0;
+}
