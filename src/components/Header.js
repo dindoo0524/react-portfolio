@@ -14,7 +14,6 @@ const Header =() => {
     <header>
         <div className="wrap">
             <a href="/fastcampus">
-                <img src={logoImage} alt="logo" />
             </a>
         </div>
         <div className="wrap">
