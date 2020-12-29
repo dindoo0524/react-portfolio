@@ -18,7 +18,13 @@
                 "React.js",
                 "프론트엔드",
                 "백엔드"
-            ]
+            ],
+            "url" : {
+                "link" : "http://adm.smartg.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
         },
         {
             "id" : 5,
@@ -37,7 +43,13 @@
                 "React.js",
                 "프론트엔드",
                 "백엔드"
-            ]
+            ],
+            "url" : {
+                "link" : "http://dolive.smartg.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
         },
         {
             "id" : 7,
@@ -56,7 +68,13 @@
                 "React.js",
                 "반응형",
                 "프론트엔드"
-            ]
+            ],
+            "url" : {
+                "link" : "http://physicalbase.co.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
         },
         {
             "id" : 8,
@@ -75,7 +93,13 @@
                 "React.js",
                 "반응형",
                 "프론트엔드"
-            ]
+            ],
+            "url" : {
+                "link" : "http://physicalacademy.co.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
         }
     ]
 }

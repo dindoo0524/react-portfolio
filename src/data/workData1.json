@@ -19,10 +19,12 @@
                 "프론트엔드",
                 "백엔드"
             ],
-            "android" : "naver.com",
-            "ios" : "naver.com",
-            "github" : "",
-            "url" : "naver.com"
+            "url" : {
+                "link" : "",
+                "android" : "https://play.google.com/store/apps/details?id=com.smartfitkorea.dolive",
+                "ios" : "https://apps.apple.com/kr/app/%EB%91%90%EC%8D%A8%ED%82%B7-%EB%9D%BC%EC%9D%B4%EB%B8%8C/id1541099596",
+                "github" : ""
+            }
         },
         {
             "id" : 2,
@@ -41,7 +43,13 @@
                 "React-Native",
                 "프론트엔드",
                 "백엔드"
-            ]
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "https://play.google.com/store/apps/details?id=com.smartfitkorea.gooseo",
+                "ios" : "https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%A7%90-%EA%B5%AC%EC%84%9C%EC%A0%90/id1521943996",
+                "github" : ""
+            }
         },
         {
             "id" : 3,
@@ -60,7 +68,13 @@
                 "React-Native",
                 "프론트엔드",
                 "백엔드"
-            ]
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "https://play.google.com/store/apps/details?id=com.smartfitkorea.fitvely",
+                "ios" : "https://apps.apple.com/by/app/%ED%9E%99%EC%97%85%EA%B3%B5%EC%9E%A5-%EB%B6%80%EC%B2%9C%EC%A0%90/id1526766569",
+                "github" : ""
+            }
         },
         {
             "id" : 6,
@@ -79,7 +93,13 @@
                 "php",
                 "프론트엔드",
                 "백엔드"
-            ]
+            ],
+            "url" : {
+                "link" : "https://admin.docircuit.co.kr/home",
+                "android" : "https://play.google.com/store/apps/details?id=co.kr.docircuit&hl=ko",
+                "ios" : "https://apps.apple.com/do/app/%EB%91%90%EC%8D%A8%ED%82%B7/id1391507583",
+                "github" : ""
+            }
         }
     ]
 }

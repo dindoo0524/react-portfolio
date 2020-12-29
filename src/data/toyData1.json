@@ -18,7 +18,13 @@
                 "Vue.js",
                 "node.js",
                 "데이터베이스"
-            ]
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/management"
+            }
         },
         {
             "id" : 2,
@@ -37,7 +43,13 @@
                 "Vue.js",
                 "node.js",
                 "데이터베이스"
-            ]
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/todolist"
+            }
         },
         {
             "id" : 3,
@@ -56,7 +68,13 @@
                 "javascript",
                 "node.js",
                 "데이터베이스"
-            ]
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/javascript-library"
+            }
         },
         {
             "id" : 7,
@@ -75,7 +93,13 @@
                 "javascript",
                 "node.js",
                 "데이터베이스"
-            ]
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/pc_order_program"
+            }
         }
     ]
 }

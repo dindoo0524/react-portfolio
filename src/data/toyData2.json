@@ -18,7 +18,13 @@
                 "React.js",
                 "반응형",
                 "퍼블리싱"
-            ]
+            ],
+            "url" : {
+                "link" : "http://dindoo.dothome.co.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/mentoring-lab"
+            }
         },
         {
             "id" : 5,
@@ -37,7 +43,13 @@
                 "React.js",
                 "퍼블리싱",
                 ""
-            ]
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/miniowner"
+            }
         },
         {
             "id" : 6,
@@ -56,7 +68,13 @@
                 "React.js",
                 "퍼블리싱",
                 ""
-            ]
+            ],
+            "url" : {
+                "link" : "https://jinjuna.github.io/fastcampus/",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/fastcampus"
+            }
         },
         {
             "id" : 8,
@@ -75,7 +93,13 @@
                 "php",
                 "데이터베이스",
                 ""
-            ]
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/board"
+            }
         }
     ]
 }

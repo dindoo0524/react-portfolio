@@ -18,7 +18,13 @@
                 "반응형",
                 "프론트엔드",
                 "백엔드"
-            ]
+            ],
+            "url" : {
+                "link" : "http://www.smartfitkorea.com/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
         },
         {
             "id" : 10,
@@ -37,7 +43,13 @@
                 "php",
                 "반응형",
                 "프론트엔드"
-            ]
+            ],
+            "url" : {
+                "link" : "https://info.docircuit.co.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
         },
         {
             "id" : "",
@@ -56,7 +68,13 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
         },
         {
             "id" : "",
@@ -75,7 +93,13 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
         }
     ]
 }
