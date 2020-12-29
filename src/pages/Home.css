@@ -1,4 +1,10 @@
+.banner-container{
+    text-align: center;
+}
 
+.banner {
+    width: 70%;
+}
 
 .all-project{
     text-align : right;
