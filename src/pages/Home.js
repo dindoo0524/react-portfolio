@@ -18,11 +18,11 @@ const Home = () => {
         <img src={banner} alt="banner" className="banner" />
         </div>
         <section className="content-section">
-          <CardComponent contentData={workData1} />
-          <CardComponent contentData={workData2} />
-          <CardComponent contentData={workData3} />
-          <CardComponent contentData={toyData1} />
-          <CardComponent contentData={toyData2} />
+          <CardComponent contentData={workData1} type="work"/>
+          <CardComponent contentData={workData2} type="work"/>
+          <CardComponent contentData={workData3} type="work"/>
+          <CardComponent contentData={toyData1} type="toy"/>
+          <CardComponent contentData={toyData2} type="toy"/>
         </section>
     </main>
   )

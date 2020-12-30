@@ -26,6 +26,11 @@ header .wrap, footer .wrap{
   margin:0 auto;
 }
 
+.header-line{
+  height: 20px;
+  background-color: #7f2b9b;
+}
+
 @media all and (max-width:1024px) {
   header .wrap, footer .wrap{
     width: 100%;

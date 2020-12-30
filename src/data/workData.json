@@ -1,0 +1,296 @@
+{
+    "title" : "업무 프로젝트 - 스마트핏",
+    "cardItem" : [
+        {
+            "id" : 1,
+            "title" : "두써킷라이브 앱 개발",
+            "description" : "부산 테크노파크의 정부지원을 받아 라이브홈트레이닝 플랫폼 '두써킷라이브'를 개발하였습니다.",
+            "person" : 2,
+            "thumbnail" : "w1_thumb.jpg",
+            "img" : [
+                "w1_01.jpg",
+                "w1_02.jpg",
+                "w1_03.jpg",
+                "w1_04.png"
+            ],
+            "type" : "app",
+            "category" : [
+                "React-Native",
+                "프론트엔드",
+                "백엔드"
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "https://play.google.com/store/apps/details?id=com.smartfitkorea.dolive",
+                "ios" : "https://apps.apple.com/kr/app/%EB%91%90%EC%8D%A8%ED%82%B7-%EB%9D%BC%EC%9D%B4%EB%B8%8C/id1541099596",
+                "github" : ""
+            }
+        },
+        {
+            "id" : 2,
+            "title" : "스마트짐 앱 개발",
+            "description" : "회원의 입출입과 회원권 구매가 가능한 스마트짐 앱. 전국 스마트짐에서 사용 가능합니다.[구서점, 옥포점, 메트로자이점, 고현점, 다대포점]",
+            "person" : 2,
+            "thumbnail" : "w2_thumb.jpg",
+            "img" : [
+                "w2_01.jpg",
+                "w2_02.jpg"
+            ],
+            "type" : "app",
+            "category" : [
+                "React-Native",
+                "프론트엔드",
+                "백엔드"
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "https://play.google.com/store/apps/details?id=com.smartfitkorea.gooseo",
+                "ios" : "https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%A7%90-%EA%B5%AC%EC%84%9C%EC%A0%90/id1521943996",
+                "github" : ""
+            }
+        },
+        {
+            "id" : 3,
+            "title" : "스마트패스 앱 개발 납품",
+            "description" : "스마트핏에서 핏블리와 플라이휘트니스에 납품한 '힙업공장 부천점'과 '플라이휘트니스' ",
+            "person" : 2,
+            "thumbnail" : "w3_thumb.jpg",
+            "img" : [
+                "w3_01.jpg"
+            ],
+            "type" : "app",
+            "category" : [
+                "React-Native",
+                "프론트엔드",
+                "백엔드"
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "https://play.google.com/store/apps/details?id=com.smartfitkorea.fitvely",
+                "ios" : "https://apps.apple.com/by/app/%ED%9E%99%EC%97%85%EA%B3%B5%EC%9E%A5-%EB%B6%80%EC%B2%9C%EC%A0%90/id1526766569",
+                "github" : ""
+            }
+        },
+        {
+            "id" : 6,
+            "title" : "두써킷 심박시스템 UI/UX 개선",
+            "description" : "트레이닝 솔루션 두써킷 심박시스템의 심박표시구간의 UI/UX 개선",
+            "person" : 1,
+            "thumbnail" : "w6_thumb.jpg",
+            "img" : [
+                "w6_01.jpg",
+                "w6_02.jpg",
+                "w6_03.jpg"
+            ],
+            "type" : "web",
+            "category" : [
+                "php",
+                "프론트엔드",
+                "백엔드"
+            ],
+            "url" : {
+                "link" : "https://admin.docircuit.co.kr/home",
+                "android" : "https://play.google.com/store/apps/details?id=co.kr.docircuit&hl=ko",
+                "ios" : "https://apps.apple.com/do/app/%EB%91%90%EC%8D%A8%ED%82%B7/id1391507583",
+                "github" : ""
+            }
+        },
+        {
+            "id" : 4,
+            "title" : "스마트짐 관리자 페이지 개발",
+            "description" : "스마트짐앱을 위한 관리자 페이지",
+            "person" : 1,
+            "thumbnail" : "w4_thumb.jpg",
+            "img" : [
+                "w4_01.png",
+                "w4_02.png",
+                "w4_03.png",
+                "w4_04.png",
+                "w4_05.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "React.js",
+                "프론트엔드",
+                "백엔드"
+            ],
+            "url" : {
+                "link" : "http://adm.smartg.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
+        },
+        {
+            "id" : 5,
+            "title" : "두써킷라이브 관리자 페이지 개발",
+            "description" : "두써킷라이브앱을 위한 관리자 페이지",
+            "person" : 1,
+            "thumbnail" : "w5_thumb.jpg",
+            "img" : [
+                "w5_01.png",
+                "w5_02.png",
+                "w5_03.png",
+                "w5_04.png",
+                "w5_05.png",
+                "w5_06.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "React.js",
+                "프론트엔드",
+                "백엔드"
+            ],
+            "url" : {
+                "link" : "http://dolive.smartg.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
+        },
+        {
+            "id" : 7,
+            "title" : "피지컬베이스 홈페이지 개발",
+            "description" : "피지컬베이스 센터 소개 반응형 홈페이지 개발",
+            "person" : 1,
+            "thumbnail" : "w7_thumb.jpg",
+            "img" : [
+                "w7_01.png",
+                "w7_02.png",
+                "w7_03.png",
+                "w7_04.png",
+                "w7_05.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "React.js",
+                "반응형",
+                "프론트엔드"
+            ],
+            "url" : {
+                "link" : "http://physicalbase.co.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
+        },
+        {
+            "id" : 8,
+            "title" : "피지컬체대입시 홈페이지 개발",
+            "description" : "피지컬베이스 센터의 체대입시 프로그램 소개 반응형 홈페이지 개발",
+            "person" : 1,
+            "thumbnail" : "w8_thumb.jpg",
+            "img" : [
+                "w8_01.png",
+                "w8_02.png",
+                "w8_03.png",
+                "w8_04.png",
+                "w8_05.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "React.js",
+                "반응형",
+                "프론트엔드"
+            ],
+            "url" : {
+                "link" : "http://physicalacademy.co.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
+        },
+        {
+            "id" : 9,
+            "title" : "스마트핏 교육사이트 반응형 리뉴얼",
+            "description" : "스마트핏 교육사이트를 모바일 환경에서도 사용가능하도록한 반응형 리뉴얼 작업",
+            "person" : 1,
+            "thumbnail" : "w9_thumb.jpg",
+            "img" : [
+                "w9_01.png",
+                "w9_02.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "반응형",
+                "프론트엔드",
+                "백엔드"
+            ],
+            "url" : {
+                "link" : "http://www.smartfitkorea.com/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
+        },
+        {
+            "id" : 10,
+            "title" : "두써킷 홍보 홈페이지 리뉴얼",
+            "description" : "트레이닝 솔루션 두써킷과 두써킷라이브 홍보 페이지 반응형 리뉴얼",
+            "person" : 1,
+            "thumbnail" : "w10_thumb.jpg",
+            "img" : [
+                "w10_01.png",
+                "w10_02.png",
+                "w10_03.png",
+                "w10_04.png",
+                "w10_05.png",
+                "w10_06.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "php",
+                "반응형",
+                "프론트엔드"
+            ],
+            "url" : {
+                "link" : "https://info.docircuit.co.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
+        },
+        {
+            "id" : "",
+            "title" : "",
+            "description" : "",
+            "person" : 1,
+            "thumbnail" : "",
+            "img" : [
+            ],
+            "type" : "web",
+            "category" : [
+                "",
+                "",
+                ""
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
+        },
+        {
+            "id" : "",
+            "title" : "",
+            "description" : "",
+            "person" : 1,
+            "thumbnail" : "",
+            "img" : [
+            ],
+            "type" : "web",
+            "category" : [
+                "",
+                "",
+                ""
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "title" : "개인 프로젝트",
+    "cardItem" : [
+        {
+            "id" : 1,
+            "title" : "학원 학생관리 프로그램",
+            "description" : "Vue.js를 이용해서 만든 학원 학생관리 프로그램",
+            "person" : 1,
+            "thumbnail" : "t1_thumb.jpg",
+            "img" : [
+                "이미지!"
+            ],
+            "type" : "web",
+            "category" : [
+                "Vue.js",
+                "node.js",
+                "데이터베이스"
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/management"
+            }
+        },
+        {
+            "id" : 2,
+            "title" : "투두리스트",
+            "description" : "Vue.js를 이용해서 데이터베이스와 연동해서 만든 투두리스트",
+            "person" : 1,
+            "thumbnail" : "t2_thumb.jpg",
+            "img" : [
+                "t2_01.png",
+                "t2_02.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "Vue.js",
+                "node.js",
+                "데이터베이스"
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/todolist"
+            }
+        },
+        {
+            "id" : 3,
+            "title" : "도서관리 프로그램",
+            "description" : "javascript로 구현해 데이터베이스와 연동시킨 도서관리 프로그램",
+            "person" : 1,
+            "thumbnail" : "t3_thumb.jpg",
+            "img" : [
+                "t3_01.png",
+                "t3_02.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "javascript",
+                "node.js",
+                "데이터베이스"
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/javascript-library"
+            }
+        },
+        {
+            "id" : 7,
+            "title" : "피씨방 음식주문 프로그램",
+            "description" : "javascript로 구현해 데이터베이스와 연동시킨 피씨방 음식주문 프로그램",
+            "person" : 1,
+            "thumbnail" : "t7_thumb.jpg",
+            "img" : [
+                "w7_01.png",
+                "w7_02.png",
+                "w7_03.png",
+                "w7_04.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "javascript",
+                "node.js",
+                "데이터베이스"
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/pc_order_program"
+            }
+        },
+        {
+            "id" : 4,
+            "title" : "멘토링연구소 홈페이지",
+            "description" : "React.js를 이용해서 반응형으로 제작한 윤성화멘토링연구소 소개 홈페이지",
+            "person" : 1,
+            "thumbnail" : "t4_thumb.jpg",
+            "img" : [
+                "t4_01.png",
+                "t4_02.png",
+                "t4_03.png",
+                "t4_04.png",
+                "t4_05.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "React.js",
+                "반응형",
+                "퍼블리싱"
+            ],
+            "url" : {
+                "link" : "http://dindoo.dothome.co.kr/",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/mentoring-lab"
+            }
+        },
+        {
+            "id" : 5,
+            "title" : "미니인턴 홈페이지 클론",
+            "description" : "React.js를 이용해 만든 미니인턴 홈페이지 클론 코딩",
+            "person" : 1,
+            "thumbnail" : "t5_thumb.jpg",
+            "img" : [
+                "t5_01.png",
+                "t5_02.png",
+                "t5_03.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "React.js",
+                "퍼블리싱",
+                ""
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/miniowner"
+            }
+        },
+        {
+            "id" : 6,
+            "title" : "패스트캠퍼스 홈페이지 클론",
+            "description" : "React.js를 이용해서 만든 패스트캠퍼스 홈페이지 클론 코딩",
+            "person" : 1,
+            "thumbnail" : "t6_thumb.jpg",
+            "img" : [
+                "t6_01.png"
+            ],
+            "type" : "web",
+            "category" : [
+                "React.js",
+                "퍼블리싱",
+                ""
+            ],
+            "url" : {
+                "link" : "https://jinjuna.github.io/fastcampus/",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/fastcampus"
+            }
+        },
+        {
+            "id" : 8,
+            "title" : "php 게시판 프로그램",
+            "description" : "php를 이용해서 만든 게시판 프로그램",
+            "person" : 1,
+            "thumbnail" : "t8_thumb.jpg",
+            "img" : [
+                "이미지!",
+                "w5_02.jpg",
+                "w5_03.jpg",
+                "w5_04.jpg"
+            ],
+            "type" : "web",
+            "category" : [
+                "php",
+                "데이터베이스",
+                ""
+            ],
+            "url" : {
+                "link" : "",
+                "android" : "",
+                "ios" : "",
+                "github" : "https://github.com/JinjuNa/board"
+            }
+        }
+    ]
+}

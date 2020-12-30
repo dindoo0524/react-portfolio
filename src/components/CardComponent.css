@@ -27,11 +27,11 @@
     height: 70px;
 }
 
-.txt-container .icon{
+.icon{
     margin-right: 5px;
 }
 
-.txt-container .icon:hover{
+.icon:hover{
     cursor: pointer;
 }
 

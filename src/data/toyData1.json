@@ -6,7 +6,7 @@
             "title" : "학원 학생관리 프로그램",
             "description" : "Vue.js를 이용해서 만든 학원 학생관리 프로그램",
             "person" : 1,
-            "thumnail" : "t1_thum.jpg",
+            "thumbnail" : "t1_thumb.jpg",
             "img" : [
                 "w5_01.jpg",
                 "w5_02.jpg",
@@ -31,7 +31,7 @@
             "title" : "투두리스트",
             "description" : "Vue.js를 이용해서 데이터베이스와 연동해서 만든 투두리스트",
             "person" : 1,
-            "thumnail" : "t2_thum.jpg",
+            "thumbnail" : "t2_thumb.jpg",
             "img" : [
                 "w5_01.jpg",
                 "w5_02.jpg",
@@ -56,7 +56,7 @@
             "title" : "도서관리 프로그램",
             "description" : "javascript로 구현해 데이터베이스와 연동시킨 도서관리 프로그램",
             "person" : 1,
-            "thumnail" : "t3_thum.jpg",
+            "thumbnail" : "t3_thumb.jpg",
             "img" : [
                 "w5_01.jpg",
                 "w5_02.jpg",
@@ -81,7 +81,7 @@
             "title" : "피씨방 음식주문 프로그램",
             "description" : "javascript로 구현해 데이터베이스와 연동시킨 피씨방 음식주문 프로그램",
             "person" : 1,
-            "thumnail" : "t7_thum.jpg",
+            "thumbnail" : "t7_thumb.jpg",
             "img" : [
                 "w5_01.jpg",
                 "w5_02.jpg",

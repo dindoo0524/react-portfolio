@@ -6,7 +6,7 @@
             "title" : "두써킷라이브 앱 개발",
             "description" : "부산 테크노파크의 정부지원을 받아 라이브홈트레이닝 플랫폼 '두써킷라이브'를 개발하였습니다.",
             "person" : 2,
-            "thumnail" : "w1_thum.jpg",
+            "thumbnail" : "w1_thumb.jpg",
             "img" : [
                 "w1_01.jpg",
                 "w1_02.jpg",
@@ -31,7 +31,7 @@
             "title" : "스마트짐 앱 개발",
             "description" : "회원의 입출입과 회원권 구매가 가능한 스마트짐 앱. 전국 스마트짐에서 사용 가능합니다.[구서점, 옥포점, 메트로자이점, 고현점, 다대포점]",
             "person" : 2,
-            "thumnail" : "w2_thum.jpg",
+            "thumbnail" : "w2_thumb.jpg",
             "img" : [
                 "w2_01.jpg",
                 "w2_02.jpg",
@@ -56,7 +56,7 @@
             "title" : "스마트패스 앱 개발 납품",
             "description" : "스마트핏에서 핏블리와 플라이휘트니스에 납품한 '힙업공장 부천점'과 '플라이휘트니스' ",
             "person" : 2,
-            "thumnail" : "w3_thum.jpg",
+            "thumbnail" : "w3_thumb.jpg",
             "img" : [
                 "w3_01.jpg",
                 "w3_02.jpg",
@@ -81,7 +81,7 @@
             "title" : "두써킷 심박시스템 UI/UX 개선",
             "description" : "트레이닝 솔루션 두써킷 심박시스템의 심박표시구간의 UI/UX 개선",
             "person" : 1,
-            "thumnail" : "w6_thum.jpg",
+            "thumbnail" : "w6_thumb.jpg",
             "img" : [
                 "w5_01.jpg",
                 "w5_02.jpg",

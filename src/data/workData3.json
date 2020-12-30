@@ -6,7 +6,7 @@
             "title" : "스마트핏 교육사이트 반응형 리뉴얼",
             "description" : "스마트핏 교육사이트를 모바일 환경에서도 사용가능하도록한 반응형 리뉴얼 작업",
             "person" : 1,
-            "thumnail" : "w9_thum.jpg",
+            "thumbnail" : "w9_thumb.jpg",
             "img" : [
                 "w5_01.jpg",
                 "w5_02.jpg",
@@ -31,7 +31,7 @@
             "title" : "두써킷 홍보 홈페이지 리뉴얼",
             "description" : "트레이닝 솔루션 두써킷과 두써킷라이브 홍보 페이지 반응형 리뉴얼",
             "person" : 1,
-            "thumnail" : "w10_thum.jpg",
+            "thumbnail" : "w10_thumb.jpg",
             "img" : [
                 "w5_01.jpg",
                 "w5_02.jpg",
@@ -56,7 +56,7 @@
             "title" : "",
             "description" : "",
             "person" : 1,
-            "thumnail" : "",
+            "thumbnail" : "",
             "img" : [
                 "w5_01.jpg",
                 "w5_02.jpg",
@@ -81,7 +81,7 @@
             "title" : "",
             "description" : "",
             "person" : 1,
-            "thumnail" : "",
+            "thumbnail" : "",
             "img" : [
                 "w5_01.jpg",
                 "w5_02.jpg",

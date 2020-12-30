@@ -6,7 +6,7 @@ import { faAppStore, faGithub, faGooglePlay } from "@fortawesome/free-brands-svg
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 const CardImage = styled.div`
-  background-image: url("/portfolio/images/${props => props.img}");
+  background-image: url("/images/${props => props.img}");
   background-size:cover;
   /* width : 90%; */
   height : 125px;
@@ -15,8 +15,15 @@ const CardImage = styled.div`
 `
 
 const CardItemBox = (props) => {
-    // const link = "/portfolio";
-    console.log(props.img);
+    let type = props.type;
+    let link = '/info/'+type + "/" + props.id;
+    console.log(type);
+    // if(type === "work"){
+    //     link = "/workInfo/" + props.id;
+    // }else{
+    //     link = "/toyInfo/" + props.id;
+    // }
+    
     const open_link = (url) => {
         const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
         if (newWindow) newWindow.opener = null
@@ -28,7 +35,7 @@ const CardItemBox = (props) => {
     }
     return (
         <li className="card-item">
-            {/* <a href={link}> */}
+            <a href={link}>
             <CardImage img={props.img} />
             <div className="txt-container">
                 <span className="category-txt">{props.category[0]}</span>
@@ -38,7 +45,9 @@ const CardItemBox = (props) => {
                 }
                 <h6 className="f-14 title">{props.title}</h6>
                 <p className="f-12 text">{props.description}</p>
-                <div className="icon-container">
+            </div>
+            </a>
+            <div className="icon-container">
                 {props.url.link ? 
                 <FontAwesomeIcon icon={faGlobe} color="#999" className="icon icon-web" onClick={()=>open_link(props.url.link)}/>
                 : null}
@@ -51,9 +60,7 @@ const CardItemBox = (props) => {
                 {props.url.github ? 
                 <FontAwesomeIcon icon={faGithub} color="#999" className="icon icon-github" onClick={()=>open_link(props.url.github)}/>
                 : null}
-                </div>
             </div>
-            {/* </a> */}
         </li>
     )
 }
@@ -61,7 +68,8 @@ const CardItemBox = (props) => {
 const CardComponent = (props) => {
     const contentData = props.contentData
     const cardItemData = contentData.cardItem;
-    const CardListItem = cardItemData.map((cardItem, index)=> <CardItemBox key={index} id={cardItem.id} img={cardItem.thumnail} category={cardItem.category} title={cardItem.title} description={cardItem.description} url={cardItem.url} />);
+    const type = props.type;
+    const CardListItem = cardItemData.map((cardItem, index)=> <CardItemBox key={index} id={cardItem.id} type={type} img={cardItem.thumbnail} category={cardItem.category} title={cardItem.title} description={cardItem.description} url={cardItem.url} />);
     return(
         <div className="card-component">
             <h3 className="card-component-title">{contentData.title}</h3>
