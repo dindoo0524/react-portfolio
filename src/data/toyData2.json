@@ -77,7 +77,7 @@
             }
         },
         {
-            "id" : 8,
+            "id" : "",
             "title" : "php 게시판 프로그램",
             "description" : "php를 이용해서 만든 게시판 프로그램",
             "person" : 1,

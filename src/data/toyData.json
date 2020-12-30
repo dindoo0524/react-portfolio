@@ -8,7 +8,8 @@
             "person" : 1,
             "thumbnail" : "t1_thumb.jpg",
             "img" : [
-                "이미지!"
+                "t1_01.jpg",
+                "t1_02.jpg"
             ],
             "type" : "web",
             "category" : [
@@ -76,10 +77,10 @@
             "person" : 1,
             "thumbnail" : "t7_thumb.jpg",
             "img" : [
-                "w7_01.png",
-                "w7_02.png",
-                "w7_03.png",
-                "w7_04.png"
+                "t7_01.png",
+                "t7_02.png",
+                "t7_03.png",
+                "t7_04.png"
             ],
             "type" : "web",
             "category" : [

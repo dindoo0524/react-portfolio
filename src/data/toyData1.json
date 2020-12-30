@@ -8,10 +8,8 @@
             "person" : 1,
             "thumbnail" : "t1_thumb.jpg",
             "img" : [
-                "w5_01.jpg",
-                "w5_02.jpg",
-                "w5_03.jpg",
-                "w5_04.jpg"
+                "t1_01.jpg",
+                "t1_02.jpg"
             ],
             "type" : "web",
             "category" : [
